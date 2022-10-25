@@ -24,8 +24,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-! [alt text] (https://sal8298.github.io/Bootcamp-Challenge-1-Sal/assets/images/Horiseon-Screenshot1.jpg)
-! [alt text] (https://sal8298.github.io/Bootcamp-Challenge-1-Sal/assets/images/Horiseon-Screenshot1.jpg)
+![Screenshot of top of the page](./assets/images/Horiseon-Screenshot1.jpg)
+![ Screenshot of bottom of the page](./assets/images/Horiseon-Screenshot2.jpg)
 
 ## Credits
 
