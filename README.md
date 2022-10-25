@@ -22,9 +22,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is a screenshot of the top of the page.
 
 ![Screenshot of top of the page](./assets/images/Horiseon-Screenshot1.jpg "Screenshot Top Page")
+
+This is a sceeenshot of the bottom of the page.
 ![ Screenshot of bottom of the page](./assets/images/Horiseon-Screenshot2.jpg "Screenshot Bottom Page")
 
 ## Credits
