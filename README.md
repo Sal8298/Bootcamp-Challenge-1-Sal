@@ -30,6 +30,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
+    ![Screenshot of top of the page](assets/images/Horiseon-Screenshot1.jpg)
+    ![ Screenshot of bottom of the page](assets/images/Horiseon-Screenshot2.jpg)
+
 ## Credits
 
 - Collaborators:
