@@ -16,7 +16,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-- Horiseon Social Solution Services can be accessed at https://sal8298.github.io/Bootcamp-Challenge-1-Sal/
+ Horiseon Social Solution Services can be accessed at https://sal8298.github.io/Bootcamp-Challenge-1-Sal/
+
+Repository containing the code for Horiseon Social Solution Services can be found at https://github.com/Sal8298/Bootcamp-Challenge-1-Sal
 
 ## Usage
 This is a screenshot of the top of the page.
@@ -36,4 +38,28 @@ This a sceenshot of the bottom of the page.
 
 ## License
 
-MIT License.
+MIT License
+
+Copyright (c) [2019] [Horiseon Social Solution Services, Inc.]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Badges
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
