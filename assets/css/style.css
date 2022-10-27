@@ -1,23 +1,39 @@
 /* Universal Tags */
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; /* Helps maintain box width and height more consistently across the elements it is applied to */
     padding: 0;
     margin: 0;
 }
 
 /* Element Tags */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 body {
     background-color: #d9dcd6;
 }
 
-h1 {
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;  /* This makes the links stay to the right of the page. */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul li {
     display: inline-block;
+    margin-left: 25px;
+    list-style-type: none; /* Removes the bullet point from the nav bar list */
+}
+
+h1 {
+    display: inline-block; /* Allows things to appear inline while not covering around surrounding content. */
     font-size: 48px; 
 }
 
@@ -31,32 +47,32 @@ h3 {
     text-align: center;
 }
 
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-header section {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+h4 {
     font-size: 20px;
-}
-
-header section ul li {
-    display: inline-block;
-    margin-left: 25px;
-    list-style-type: none;
 }
 
 p {
     font-size: 16px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none; /* Removes any styling on the text */
+}
+
 /* Class Tags */
+
+.seo {
+    color: #d9dcd6;
+}
+
+.heroBanner {
+    height: 800px; /* Fixes the height of the banner to prevent stretching */
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
 
 .benefits {
     margin-right: 20px;
@@ -76,7 +92,7 @@ p {
 
 .benefitsRight img {
     display: block;
-    margin: 10px auto;
+    margin: 10px auto; /* Margin auto will automatically try to keep the margin centered */
     max-width: 150px;
 }
 
@@ -109,14 +125,9 @@ p {
     margin-left: 25px;
 }
 
-.heroBanner {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
-}
-
-.seo {
-    color: #d9dcd6;
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
