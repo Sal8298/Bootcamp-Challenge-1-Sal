@@ -40,7 +40,7 @@ This a sceenshot of the bottom of the page.
 
 MIT License
 
-Copyright (c) [2019] [Horiseon Social Solution Services, Inc.]
+Copyright (c) [2022] [Horiseon Social Solution Services, Inc.]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -62,4 +62,4 @@ SOFTWARE.
 
 ## Badges
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: MIT]
